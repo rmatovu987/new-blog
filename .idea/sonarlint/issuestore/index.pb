@@ -23,8 +23,6 @@ E
 app/models/article.rb,e/8/e8b0f6de166b2f4f5e7fe3bba5506d4e176405bc
 Q
 !app/views/articles/_form.html.erb,b/b/bb7473a76118306ae30bf8b92f175bb032396501
-Q
-!app/views/articles/index.html.erb,0/f/0f64eca4b31e9213d7cff375b4408e42f271176d
 P
  app/views/articles/show.html.erb,7/2/72981ecef537aacfb8ffa5233abe67384c32f1f4
 Q
@@ -33,8 +31,6 @@ T
 $app/views/comments/_comment.html.erb,5/5/550395d32d06ac362d6d7d8b5e20e2da8f3b3249
 N
 app/models/concerns/visible.rb,e/d/ed1de8dfa9ec9b54b368ac576063b9abf21f071d
-V
-&app/controllers/articles_controller.rb,c/a/ca8e3c36c963e6d6cd8670a7e91b1d75353544c9
 N
 app/helpers/articles_helper.rb,d/f/df04b471217a8db3356aaeba934d8db672bc76ab
 N
