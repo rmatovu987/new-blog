@@ -3,8 +3,6 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 8
 Rakefile,4/4/44b7fa1ba50397e71d88bd69389f1ec917165cfb
-O
-app/views/articles/new.html.erb,5/b/5bd04de26d51e9ecf8ef682b8b628f6ec91d1359
 P
  app/views/articles/edit.html.erb,4/4/4433d977b16ec79d44bb22392392d41590a64850
 Y
@@ -19,18 +17,12 @@ M
 app/javascript/application.js,1/5/152e2c420fe74ffc17152624ffc17eed9bcc66a5
 V
 &app/controllers/comments_controller.rb,a/3/a3776876bd0ee05804bd64ac2f5eee1bd3647b2f
-E
-app/models/article.rb,e/8/e8b0f6de166b2f4f5e7fe3bba5506d4e176405bc
-Q
-!app/views/articles/_form.html.erb,b/b/bb7473a76118306ae30bf8b92f175bb032396501
 P
  app/views/articles/show.html.erb,7/2/72981ecef537aacfb8ffa5233abe67384c32f1f4
 Q
 !app/views/comments/_form.html.erb,3/8/38378ecf63a86f50f7baccf471b7f4702869f142
 T
 $app/views/comments/_comment.html.erb,5/5/550395d32d06ac362d6d7d8b5e20e2da8f3b3249
-N
-app/models/concerns/visible.rb,e/d/ed1de8dfa9ec9b54b368ac576063b9abf21f071d
 N
 app/helpers/articles_helper.rb,d/f/df04b471217a8db3356aaeba934d8db672bc76ab
 N
