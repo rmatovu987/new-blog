@@ -6,7 +6,7 @@ require 'capistrano/rails'
 require 'capistrano/bundler'
 require 'capistrano/rvm'
 
-require 'capistrano/puma'
+require 'capistrano/puma', load_hooks: true
 install_plugin Capistrano::Puma
 
 require "capistrano/scm/git"
