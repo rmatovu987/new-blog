@@ -1,5 +1,5 @@
 # Change these
-server 'http://18.141.56.186/', roles: [:web, :app, :db], primary: true
+server '18.141.56.186', roles: [:web, :app, :db], primary: true
 
 set :repo_url,        'https://github.com/rmatovu987/new-blog'
 set :application,     'new_blog'
@@ -25,7 +25,7 @@ set :puma_init_active_record, true  # Change to false when not using ActiveRecor
 
 ## Defaults:
 # set :scm,           :git
-# set :branch,        :master
+set :branch,        :main
 # set :format,        :pretty
 # set :log_level,     :debug
 # set :keep_releases, 5
