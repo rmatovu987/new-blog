@@ -7,7 +7,8 @@ require 'capistrano/bundler'
 require 'capistrano/rvm'
 
 require 'capistrano/puma'
-install_plugin Capistrano::Puma, load_hooks: true
+install_plugin Capistrano::Puma
+install_plugin Capistrano::Puma::Daemon
 
 require "capistrano/scm/git"
 install_plugin Capistrano::SCM::Git
